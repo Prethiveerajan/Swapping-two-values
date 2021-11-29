@@ -29,6 +29,7 @@ print("Swapped values are:",n1,n2)
 
 ````
 ## output: 
+![Screenshot (81)](https://user-images.githubusercontent.com/94233064/143877979-6bb4588c-d40e-43df-b06b-35203b36697d.png)
 
 
 

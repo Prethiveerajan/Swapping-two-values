@@ -4,7 +4,10 @@ To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
 PC
 Anaconda - Python 3.7
-## ALGORITHM: 
+## ALGORITHM:
+1. taking n1 = input 1
+2. taking n2 = input 2
+3. inter changing the value n1 &n2
 ### Step 1:
 Get the two values from the user
 ### Step 2: 
